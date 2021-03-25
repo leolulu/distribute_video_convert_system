@@ -1,0 +1,2 @@
+class ArgConstants:
+    NAME = "name"

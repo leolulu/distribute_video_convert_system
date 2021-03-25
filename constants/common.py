@@ -1,0 +1,10 @@
+class CommonConstants:
+    WORKON_HOME = 'WORKON_HOME'
+    SERVER = 'server'
+    CLIENT = 'client'
+    WORKER = 'worker'
+    SERVER_ABBR = 's'
+    CLIENT_ABBR = 'c'
+    WORKER_ABBR = 'w'
+    LOCAL_STORAGE = 'local_storage'
+    ROLE = 'role'
